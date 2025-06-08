@@ -1,4 +1,4 @@
-# MERN User Authentication App
+# MERN User Authentication Application 
 
 A full-stack authentication application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It includes user registration, login, JWT-based authentication, protected routes, and secure password handling.
 
